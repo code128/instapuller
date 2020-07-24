@@ -1,0 +1,6 @@
+.vscode/settings.json
+.env*
+.cache*
+tests/__pycache__*
+__pycache__*
+instapuller.db
